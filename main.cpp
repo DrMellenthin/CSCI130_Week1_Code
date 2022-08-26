@@ -24,6 +24,8 @@ int main() {
   cout << "d = " << d << endl;
   cout << "e = " << e << endl;
 
-  cout << "3/2 + 5.5 = " << 3/2 + 5.5 << endl;
-  cout << "3.0/2.0 + 5.5 = " << 3.0/2.0 + 5.5 << endl;
+  cout << "3/2 + 5.5 = " << 3 / 2 + 5.5 << endl;
+  cout << "3.0/2.0 + 5.5 = " << 3.0 / 2.0 + 5.5 << endl;
+
+  // small change
 }
